@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/arbyadav/Quiz_Django_React/static/css/main.fae19c20.chunk.css",
+    "main.js": "/arbyadav/Quiz_Django_React/static/js/main.7fd9234d.chunk.js",
+    "main.js.map": "/arbyadav/Quiz_Django_React/static/js/main.7fd9234d.chunk.js.map",
+    "runtime-main.js": "/arbyadav/Quiz_Django_React/static/js/runtime-main.f212fca8.js",
+    "runtime-main.js.map": "/arbyadav/Quiz_Django_React/static/js/runtime-main.f212fca8.js.map",
+    "static/css/2.fb9ed26a.chunk.css": "/arbyadav/Quiz_Django_React/static/css/2.fb9ed26a.chunk.css",
+    "static/js/2.52030289.chunk.js": "/arbyadav/Quiz_Django_React/static/js/2.52030289.chunk.js",
+    "static/js/2.52030289.chunk.js.map": "/arbyadav/Quiz_Django_React/static/js/2.52030289.chunk.js.map",
+    "index.html": "/arbyadav/Quiz_Django_React/index.html",
+    "precache-manifest.2e85f41809a9e5e126a08e9e634f4f50.js": "/arbyadav/Quiz_Django_React/precache-manifest.2e85f41809a9e5e126a08e9e634f4f50.js",
+    "service-worker.js": "/arbyadav/Quiz_Django_React/service-worker.js",
+    "static/css/2.fb9ed26a.chunk.css.map": "/arbyadav/Quiz_Django_React/static/css/2.fb9ed26a.chunk.css.map",
+    "static/css/main.fae19c20.chunk.css.map": "/arbyadav/Quiz_Django_React/static/css/main.fae19c20.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f212fca8.js",
+    "static/css/2.fb9ed26a.chunk.css",
+    "static/js/2.52030289.chunk.js",
+    "static/css/main.fae19c20.chunk.css",
+    "static/js/main.7fd9234d.chunk.js"
+  ]
+}
